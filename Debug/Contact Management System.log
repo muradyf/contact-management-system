@@ -1,0 +1,3 @@
+﻿  contact-management-system.cpp
+D:\UCP\Semester 2\Programming Fundamentals\Contact Management System\contact-management-system.cpp(1382,7): warning C4101: 'tempChar': unreferenced local variable
+  Contact Management System.vcxproj -> D:\UCP\Semester 2\Programming Fundamentals\Contact Management System\Debug\Contact Management System.exe
